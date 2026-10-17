@@ -32,7 +32,7 @@ footer {
     border: 1px solid black;
 }
 
-.home-cards, .ruban, .follow, .links, .sub-footer, #bigData-intro {
+.ruban, .follow, .links, .sub-footer{
     background-color: #d3eaac;
     width: 100%;
     height: 100px;
@@ -112,7 +112,7 @@ nav li a:hover {
     margin-bottom: 10px;
 }
 
-.showcase .btn {
+.btn {
     margin: 20px;
     background-color: #378ff5;
     color: white;
@@ -126,7 +126,7 @@ nav li a:hover {
     transition: opacity 0.3s ease;
 }
 
-.showcase .btn:hover {
+.btn:hover {
     opacity: 0.85;
 }
 
