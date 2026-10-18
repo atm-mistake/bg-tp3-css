@@ -274,6 +274,11 @@ nav li a:hover {
     line-height: 2.8;
 }
 
+.links-inner li a, .sub-footer ul li a {
+    text-decoration: none;
+    color: #616161;
+}
+
 .sub-footer {
     background-color: #f2f2f2;
     color: #616161;
